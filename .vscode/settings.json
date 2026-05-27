@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "birdfly.sln"
+    "dotnet.defaultSolution": "birdfly.slnx"
 }
